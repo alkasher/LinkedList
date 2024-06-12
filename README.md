@@ -1,6 +1,6 @@
 # Linked List
 Implementation of a doubly linked list.
-Node of this List ``` Element<T> ``` stores two pointers and information. Pointers:  ``` Element<T>* next ``` - on next node and ``` Element<T>* prev``` - previous node and.
+Node of this List ``` Element<T> ``` stores two pointers and information. Pointers:  ```Element<T>* next ``` - on next node and ```Element<T>* prev``` - previous node.
 Linked List has:
 1) different constructors, including copy constructor
 2) push_back function - one can push back ``` Element<T> ``` or ``` T info ```
