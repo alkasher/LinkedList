@@ -1,5 +1,5 @@
 # Linked List
-Implementation of a double linked list.
+Implementation of a doubly linked list.
 Node of this List ``` Element<T> ``` stores two pointers  ``` Element<T>* next ``` - on next node and ``` Element<T>* prev``` - previous node.
 Linked List has:
 1) different constructors, including copy constructor
