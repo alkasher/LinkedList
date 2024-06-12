@@ -8,4 +8,4 @@ Linked List has:
 
    + In the beginning, the new node is the head -> ``` insert(0, info) ``` 
    + In the end, the new node is the tail -> ``` insert(list.size(), info) ```
-   + Between the head and tail, ![equation][0<=index<=list.size()](https://latex.codecogs.com/svg.image?&space;0<=index<=list.size()) -> ``` insert(index, info) ```
+   + Between the head and tail, ![equation](https://latex.codecogs.com/svg.image?&space;0<=index<=list.size()) -> ``` insert(index, info) ```
