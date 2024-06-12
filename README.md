@@ -9,3 +9,6 @@ Linked List has:
    + In the beginning, the new node is the head -> ``` insert(0, info) ``` 
    + In the end, the new node is the tail -> ``` insert(list.size(), info) ```
    + Between the head and tail, _0 <= index <= list.size()_ -> ``` insert(index, info) ```
+4) remove in the specified location ``` remove(int index) ```
+
+Exceptions that may occur during the operation are handled.
