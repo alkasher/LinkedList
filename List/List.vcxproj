@@ -129,6 +129,12 @@
   <ItemGroup>
     <ClCompile Include="List.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Element.hpp" />
+    <ClInclude Include="Exception.hpp" />
+    <ClInclude Include="LinkedList.hpp" />
+    <ClInclude Include="tests.hpp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
